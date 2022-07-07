@@ -1,6 +1,6 @@
 <?php include('partrials-front/menu.php') ?>
 
-
+<!-- thu them code lan sau tren git -->
 
     <!-- CAtegories Section Starts Here -->
     <section class="categories">
