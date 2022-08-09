@@ -1,9 +1,9 @@
-# Welcome to My First Repository - MathUtil project 
+# Welcome to Food-order project 
 
 ## You will find in this repo:
 
-* NetBeans Apache Ant project including JUnit Test
-* .gitignore file for NetBeans project
-* README.md - this file itself - using Markdown language
+* Example account for admin
+* username:admin
+* pass:1
 
 ### © 2022 chinhnguyen| fb/chinh.nguyenchung.94
